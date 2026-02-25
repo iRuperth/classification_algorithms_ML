@@ -1,5 +1,5 @@
 def main():
-    print("Hello from classification-algorithms-ml!")
+    print("Classification Algorithms for Machine Learning")
 
 
 if __name__ == "__main__":

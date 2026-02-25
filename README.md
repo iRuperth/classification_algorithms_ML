@@ -1,4 +1,4 @@
-# classification_algorithms_ML
+# Classification Algorithms for Machine Learning
 
 
 
@@ -28,7 +28,7 @@ uv venv
 
 #### Activate virtual environment
 ```bash
-source .venv/Scripts/activate
+source .venv\Scripts\Activate.ps1
 ```
 
 #### Install dependencies from pyproject.toml
